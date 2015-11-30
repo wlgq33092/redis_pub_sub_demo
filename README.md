@@ -1,1 +1,1 @@
-# reis_pub_sub_demo
+# this is a redis pub/sub demo for practice using hiredis.
